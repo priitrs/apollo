@@ -1,3 +1,3 @@
-const stocks = {LHV: 4.0}
+const stocks = {"LHV": "4.012"}
 
 export default stocks;
